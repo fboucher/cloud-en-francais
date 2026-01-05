@@ -9,7 +9,7 @@ tags: [ai,research,reka,api,demo,github,video]
 
 #### TL;DR
 
-J'ai construit un agent de recherche IA qui navigue réellement le web en direct et trouve des événements techno—aucune boucle de recherche, aucune logique de réessai, aucune hallucination. Posez simplement une question et obtenez un JSON structuré avec les étapes de raisonnement incluses. Le secret? Une API qui gère automatiquement la recherche en plusieurs étapes. Construit avec .NET/Blazor en une fin de semaine. [Regardez-moi le construire](https://www.youtube.com/watch?v=ML-9SrQm2Dk) | [Obtenez le code](https://link.reka.ai/event-finder-dotnet) | [Clé API gratuite](https://link.reka.ai/free)
+J'ai construit un agent de recherche IA qui navigue réellement le web en direct et trouve des événements techno—aucune boucle de recherche, aucune logique de réessai, aucune hallucination. Posez simplement une question et obtenez un JSON structuré avec les étapes de raisonnement incluses. Le secret? Une API qui gère automatiquement la recherche en plusieurs étapes. Construit avec .NET/Blazor en une fin de semaine. [Regardez la video](https://www.youtube.com/watch?v=ML-9SrQm2Dk) | [Obtenez le code](https://link.reka.ai/event-finder-dotnet) | [Clé API gratuite](https://link.reka.ai/free)
 
 Bonne année! Je voulais partager quelque chose que j'ai récemment présenté à la conférence AI Agents 2025: comment construire des assistants de recherche intelligents qui peuvent chercher sur le web en direct et retourner des résultats structurés et fiables.
 
