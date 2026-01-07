@@ -1,6 +1,6 @@
 ---
 title: "Exposer des conteneurs d'un homelab avec Traefik et Cloudflare Tunnel"
-Published: 2025-12-30
+Published: 2026-01-07
 categories: post-fr
 tags: [container,docker,traefik,cloudflare,tunnel,homelab,security,self-hosting]
 ---
@@ -10,6 +10,8 @@ J'adore le cloud, en fait la plupart des gens me connaissent probablement grâce
 C'était les vacances, et pendant mon congé, j'ai travaillé sur quelques petits projets personnels. Je les ai empaquetés dans des conteneurs pour faciliter le déploiement n'importe où. Je les ai déployés sur un mini PC que j'ai à la maison et c'est génial... tant que je reste à la maison. Mais que faire si je veux y accéder depuis ailleurs (ex. : la maison de mes beaux parents) ?
 
 J'ai configuré un beau tunnel Cloudflare vers un conteneur Traefik qui achemine le trafic vers le bon conteneur selon le préfixe ou le domaine de second niveau. Donc `dev.c5m.ca` va au conteneur X et `test.c5m.ca` va au conteneur Y. Dans ce billet, je voulais partager comment je l'ai fait (et aussi l'avoir quelque part pour moi au cas où j'aurais besoin de le refaire 😉). C'est simple une fois qu'on sait comment toutes les pièces fonctionnent ensemble.
+
+![exposer un conteneur](../content/images/2026/01/brick-container-light_800.jpeg)
 
 ## La configuration
 
