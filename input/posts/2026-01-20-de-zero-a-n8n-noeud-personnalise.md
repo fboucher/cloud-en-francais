@@ -9,7 +9,7 @@ tags: [n8n,nodejs,oss,tutorial,demo,low-code]
 
 Récemment, j'ai décidé de créer un cutom node pour [n8n](https://n8n.io/), l'outil d'automatisation de flux de travail que j'utilise. Je ne suis pas un expert en développement Node.js, mais je voulais comprendre comment les node n8n fonctionnent sous le capot. Cet article partage mon parcours et les étapes qui ont réellement fonctionné pour moi.
 
-![n8n node build successful](../content/images/2026/01/n8n-node build0successful_600.png)
+![n8n node build successful](../content/images/2026/01/n8n-node-build-successful_600.png)
 
 ## Pourquoi j'ai fait ça
 
