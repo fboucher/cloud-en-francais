@@ -9,6 +9,8 @@ tags: [n8n,nodejs,oss,tutorial,demo,low-code]
 
 Récemment, j'ai décidé de créer un cutom node pour [n8n](https://n8n.io/), l'outil d'automatisation de flux de travail que j'utilise. Je ne suis pas un expert en développement Node.js, mais je voulais comprendre comment les node n8n fonctionnent sous le capot. Cet article partage mon parcours et les étapes qui ont réellement fonctionné pour moi.
 
+![n8n node build successful](../content/images/2026/01/n8n-node build0successful_600.png)
+
 ## Pourquoi j'ai fait ça
 
 Avant de commencer ce projet, j'étais curieux de savoir comment les node n8n sont construits. La meilleure façon d'apprendre quelque chose est de le faire, alors j'ai décidé de créer un cutom node simple en suivant le tutoriel officiel de n8n. Maintenant que je comprends les bases, je prévois construire un node plus complexe avec des capacités d'IA Vision, mais c'est pour un autre billet sur ce blogue!
