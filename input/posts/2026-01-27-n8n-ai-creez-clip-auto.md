@@ -7,7 +7,7 @@ tags: [n8n,nodejs,template,automation,low-code,github, reka]
 
 # Créez automatiquement des clips IA avec ce template n8n
 
-![Nouveau template n8n de découpage Reka](../content/images/2026/01/cover_n8n_api_template_loop.png)
+![Nouveau template n8n de découpage Reka](../content/images/2026/01/cover_n8n_api_template_800.png)
 
 Je suis ravi de partager que mon nouveau template n8n a été approuvé et est maintenant disponible pour tout le monde! Ce template automatise le processus de création de clips vidéo générés par AI à partir de vidéos YouTube et envoie des notifications directement dans votre boîte courriel.
 
