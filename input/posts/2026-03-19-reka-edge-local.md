@@ -3,6 +3,7 @@ title: "Reka Edge en local: analyser des images et vidéos sans quitter votre ma
 Published: 2026-03-16
 categories: post-fr
 featured-image: ../content/images/2026/03/header_notext_crop.jpg
+image: ../content/images/2026/03/header_notext_crop.jpg
 tags: [ai,python,oss,edge,vision,huggingface,local]
 ---
 
