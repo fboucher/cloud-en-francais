@@ -2,7 +2,7 @@
 title: "Reka Edge en local: analyser des images et vidéos sans quitter votre machine"
 Published: 2026-03-16
 categories: post-fr
-featured-image: ../content/images/2026/03/header-reka-edge-local.png
+featured-image: ../content/images/2026/03/header_notext_crop.jpg
 tags: [ai,python,oss,edge,vision,huggingface,local]
 ---
 
@@ -12,7 +12,7 @@ J'ai eu beaucoup de plaisir à préparer ce guide. Ça devrait vous prendre une 
 
 ## Ce dont vous avez besoin
 
-- Une machine avec ~16 Go de RAM (asser pour un modèle 7b)
+- Une machine avec ~16 Go de RAM (assez pour un modèle 7b)
 - Git
 - [`uv`](https://docs.astral.sh/uv/), un gestionnaire de paquets Python vraiment rapide :
   ```bash
@@ -71,6 +71,8 @@ uv run example.py \
 ```
 
 Le modèle charge, traite votre fichier, et vous sort une description dans le terminal. Rien d'autre ne se passe — pas de requête réseau, pas de télémétrie.
+
+![The prompt and the hamburger image](../content/images/2026/03/prompt_and_burger_800.png)
 
 **Quelques prompts intéressants à tester :**
 
