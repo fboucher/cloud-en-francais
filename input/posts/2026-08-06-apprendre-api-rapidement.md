@@ -249,6 +249,11 @@ Dernièrement, ce flux de travail a été encore plus utile alors que mon travai
 
 Si utile, je peux partager un modèle de démarrage `.http` suivi que tu peux adapter à tes propres API.
 
+## Regardez-le en action
+
+Dans cette vidéo, je vous partage comment j'utilise l'extension REST Client pour apprendre de nouveau APIs rapidement et me bâtir un fichier réutilisable.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2zmHmZ1QvX4?si=zAONjklGLi6_myUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Références utiles :
 
