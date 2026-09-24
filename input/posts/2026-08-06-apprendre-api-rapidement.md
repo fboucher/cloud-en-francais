@@ -1,9 +1,9 @@
 ---
 title: "Comment apprendre rapidement les API avec le REST Client de VS Code"
-Published: 2026-09-06
+Published: 2026-09-24
 categories: post-fr
-featured-image: ../content/images/2026/03/keycloak-login.png
-image: ../content/images/2026/03/keycloak-login.png
+featured-image: ../content/images/2026/08/clic_send.png
+image:  ../content/images/2026/08/clic_send.png
 tags: [api,http,vscode,tools,graph,learning]
 ---
 
