@@ -1,15 +1,14 @@
 ---
-title: "J'ai créé ma première extension VS Code : voici Rainbow SQL"
+title: "J'ai créé ma première extension VS Code: voici Rainbow SQL"
 Published: 2026-10-06
 categories: post-fr
 featured-image: ../content/images/2026/10/screenshot.png
 image:  ../content/images/2026/10/screenshot.png
-tags: [vscode, sql, extension, productivite]
+tags: [vscode,sql,extension,productivite]
 ---
 
-<p align="center">
-  <img src="../content/images/2026/10/rainbow-sql.png" alt="Logo de Rainbow SQL" width="128">
-</p>
+![Logo de Rainbow SQL](../content/images/2026/10/rainbow-sql.png)
+
 J'ai une confession à vous faire. Pendant des années, chaque fois que je devais écrire ou modifier une instruction SQL `INSERT`, je faisais la même petite danse : placer mon curseur sur une valeur, compter les virgules, remonter jusqu'à la liste des colonnes, recompter, et espérer être tombé à la bonne place. Ensuite, je changeais la valeur... sans être sûr à 100 % que c'était la bonne colonne.
  
 Avec trois ou quatre colonnes, ça va. Mais donnez-moi une table de quinze colonnes avec quelques lignes de données, et me voilà de retour à l'école, en train de compter sur mes doigts.
